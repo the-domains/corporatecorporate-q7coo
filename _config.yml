@@ -6,9 +6,9 @@ color:
   saturation: 0.9558879367541522
   rhythmicContrast: 0.7142893720883876
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: CorporateCorporate
