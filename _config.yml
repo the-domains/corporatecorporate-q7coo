@@ -1,0 +1,14 @@
+layout_spectrum: 0.9862523695919663
+typography_spectrum: 0.3094631179701537
+color:
+  brandStrength: 0.6231395236682147
+  lightness: 0.27099271956831217
+  saturation: 0.9558879367541522
+  rhythmicContrast: 0.7142893720883876
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: CorporateCorporate
